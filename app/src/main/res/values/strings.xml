@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">ScanFloat</string>
+    <string name="app_name">ScanFloatButton</string>
     <string name="open_scan_float">是否开启悬浮按钮</string>
 </resources>
