@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScanFloatButton</string>
+    <string name="open_scan_float">Whether to turn on the hover button</string>
+</resources>

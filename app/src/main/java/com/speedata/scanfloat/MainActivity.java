@@ -1,9 +1,7 @@
 package com.speedata.scanfloat;
 
-import android.content.SharedPreferences;
 import android.os.Bundle;
 
-import android.os.SystemClock;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.CompoundButton;
 import android.widget.Switch;
